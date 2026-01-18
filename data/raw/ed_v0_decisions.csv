@@ -1,0 +1,252 @@
+timestamp,phase,action,distance,screen,last_action,notes
+7.4,neutral,poke,mid,midscreen,none,roundstart
+9.4,neutral,poke,mid,midscreen,poke,poking
+10.7,neutral,whiff_punish_attempt,mid,midscreen,poke,whiff punishing
+11.5,neutral,approach,far,midscreen,whiff_punish_attempt,drive rush
+16.6,neutral,poke,far,midscreen,approach,charging
+17.78,neutral,jump,far,midscreen,poke,over fireball
+20.5,neutral,retreat,close,midscreen,jump,
+20.83,neutral,poke,close,midscreen,retreat,poking
+24.5,neutral,approach,mid,midscreen,poke,drive rush
+27.9,neutral,poke,close,midscreen,approach,
+28.7,neutral,approach,close,midscreen,poke,drive rush
+33.99,neutral,poke,mid,midscreen,approach,trade
+35.733,neutral,wait,close,midscreen,poke,waiting
+40.85,neutral,poke,close,cornering,wait,pressure
+43.65,neutral,jump,close,cornering,poke,neutral jump
+45.871,neutral,retreat,mid,cornering,jump,backdash
+51,neutral,approach,mid,cornering,retreat,drive rush
+53.23,neutral,counter_poke,close,cornering,approach,
+55.7,neutral,poke,mid,cornering,counter_poke,whiff punish
+110.051,neutral,wait,mid,midscreen,none,roundstart
+113.757,neutral,approach,mid,midscreen,wait,anti fireball
+118.079,neutral,retreat,close,cornering,approach,
+118.905,neutral,jump,close,cornering,retreat,neutral jump
+121.8,neutral,wait,far,cornering,jump,
+123.315,neutral,poke,far,cornering,wait,fireball
+125.669,neutral,counter_poke,mid,cornering,poke,
+131.317,neutral,retreat,close,cornering,counter_poke,
+132.149,neutral,jump,close,cornering,retreat,neutral jump
+140.718,neutral,jump,far,cornered,jump,over fireball
+150.887,neutral,approach,mid,midscreen,jump,chase
+151.646,neutral,poke,mid,midscreen,approach,
+157.519,neutral,approach,mid,midscreen,poke,drive rush
+201.703,neutral,approach,close,midscreen,approach,drive rush
+204.097,neutral,counter_poke,close,cornered,approach,
+208.45,neutral,poke,far,midscreen,counter_poke,fireball
+211.563,neutral,counter_poke,close,midscreen,poke,
+213.876,neutral,counter_poke,close,midscreen,counter_poke,
+222.338,neutral,poke,far,midscreen,none,roundstart
+224.165,neutral,jump,far,midscreen,poke,over fireball
+228.375,neutral,counter_poke,far,cornered,jump,fireball
+229.283,neutral,approach,far,cornered,counter_poke,drive rush
+234.74,neutral,poke,close,cornering,approach,pressure
+240.921,neutral,counter_poke,close,cornering,poke,
+245.212,neutral,poke,mid,midscreen,counter_poke,
+247.353,neutral,jump,far,cornering,poke,over fireball
+250.167,neutral,poke,mid,cornering,jump,
+257.898,neutral,counter_poke,close,midscreen,poke,
+302.166,neutral,counter_poke,mid,midscreen,counter_poke,charging
+315.283,neutral,wait,mid,midscreen,none,roundstart
+317.513,neutral,jump,far,midscreen,wait,over fireball
+322.997,neutral,counter_poke,mid,midscreen,jump,fireball
+324.599,neutral,approach,mid,midscreen,counter_poke,drive rush
+328.747,neutral,jump,far,midscreen,approach,over fireball
+330.064,neutral,approach,mid,midscreen,jump,anti fireball
+333.867,neutral,counter_poke,close,midscreen,approach,
+338.722,neutral,jump,far,cornered,counter_poke,over fireball
+352.095,neutral,counter_poke,close,cornering,jump,
+404.634,neutral,poke,mid,cornered,counter_poke,charging
+434.738,neutral,wait,mid,midscreen,none,roundstart
+438.438,neutral,approach,mid,midscreen,wait,drive rush
+442.171,neutral,whiff_punish_attempt,mid,midscreen,approach,fail
+446.567,neutral,approach,mid,midscreen,whiff_punish_attempt,dash
+448.355,neutral,poke,far,midscreen,approach,charging
+452.259,neutral,whiff_punish_attempt,mid,midscreen,poke,success
+458.164,neutral,approach,far,cornering,whiff_punish_attempt,pressure
+500.184,neutral,counter_poke,far,cornering,approach,anti fireball
+503.161,neutral,poke,mid,cornering,counter_poke,charging
+518.431,neutral,counter_poke,close,midscreen,poke,
+529.573,neutral,wait,mid,midscreen,,roundstart
+539.71,neutral,jump,far,midscreen,wait,over fireball
+541.229,neutral,approach,mid,midscreen,jump,drive rush
+545.513,neutral,poke,mid,midscreen,approach,drive impact
+547.37,neutral,poke,far,midscreen,poke,fireball
+551.048,neutral,poke,far,midscreen,poke,
+553.681,neutral,approach,far,midscreen,poke,drive rush
+557.207,neutral,approach,mid,midscreen,approach,anti fireball
+601.221,neutral,counter_poke,far,cornering,approach,anti fireball
+610,neutral,approach,far,midscreen,counter_poke,drive rush
+619.941,neutral,wait,mid,midscreen,none,roundtstart
+631.144,neutral,approach,mid,midscreen,wait,drive rush
+634.761,neutral,poke,close,midscreen,approach,
+640,neutral,counter_poke,close,cornered,poke,
+7.66,neutral,wait,mid,midscreen,none,roundstart
+9.39,neutral,counter_poke,close,midscreen,wait,
+13.077,neutral,approach,mid,midscreen,counter_poke,anti fireball
+20.207,neutral,approach,mid,midscreen,approach,drive rush
+25.559,neutral,counter_poke,mid,cornering,approach,pressure
+31.459,neutral,whiff_punish_attempt,mid,cornering,counter_poke,fail
+33.277,neutral,poke,mid,cornering,whiff_punish_attempt,
+42.658,neutral,counter_poke,close,midscreen,poke,perfect parry
+54.04,neutral,wait,mid,cornering,counter_poke,
+56.628,neutral,whiff_punish_attempt,mid,cornering,wait,success
+111.722,neutral,poke,mid,midscreen,none,charging
+126.415,neutral,poke,far,midscreen,poke,fireball
+143.235,neutral,poke,close,cornered,poke,
+206.06,neutral,wait,mid,midscreen,none,roundstart
+210.162,neutral,poke,mid,midscreen,wait,lose
+221.413,neutral,poke,mid,cornered,poke,
+237.66,neutral,counter_poke,mid,cornered,poke,perfect parry
+244.627,neutral,poke,mid,cornering,counter_poke,
+247.22,neutral,wait,mid,cornering,poke,
+251.994,neutral,poke,mid,midscreen,wait,charging
+257.442,neutral,poke,close,midscreen,poke,
+300.34,neutral,counter_poke,mid,midscreen,poke,
+303.63,neutral,poke,mid,midscreen,counter_poke,
+305.955,neutral,poke,mid,midscreen,poke,
+311.713,neutral,whiff_punish_attempt,mid,midscreen,poke,success
+321.388,neutral,whiff_punish_attempt,mid,midscreen,whiff_punish_attempt,fail
+328.68,neutral,whiff_punish_attempt,mid,midscreen,whiff_punish_attempt,fail
+330.505,neutral,whiff_punish_attempt,mid,midscreen,whiff_punish_attempt,fail
+336.655,neutral,wait,mid,midscreen,none,roundstart
+341.094,neutral,counter_poke,mid,midscreen,wait,hits
+346.94,neutral,poke,close,midscreen,wait,
+354.096,neutral,poke,mid,midscreen,poke,
+402.587,neutral,counter_poke,close,cornered,poke,
+424.454,neutral,wait,mid,midscreen,none,roundstart
+432.518,neutral,poke,mid,midscreen,wait,
+438.297,neutral,poke,mid,midscreen,poke,
+447.714,neutral,whiff_punish_attempt,mid,midscreen,poke,success
+453.521,neutral,whiff_punish_attempt,mid,cornering,whiff_punish_attempt,fail
+455.32,neutral,counter_poke,close,midscreen,whiff_punish_attempt,
+459.063,neutral,poke,mid,midscreen,counter_poke,
+501.728,neutral,poke,mid,cornering,poke,trade
+505.817,neutral,poke,mid,cornering,poke,
+510,neutral,poke,mid,cornering,poke,
+526.864,neutral,wait,mid,midscreen,none,roundstart
+529.012,neutral,whiff_punish_attempt,mid,midscreen,wait,fail
+544.536,neutral,counter_poke,close,cornered,whiff_punish_attempt,
+549.179,neutral,poke,mid,cornered,counter_poke,
+554.278,neutral,counter_poke,mid,midscreen,poke,charging
+605.486,neutral,poke,close,cornering,counter_poke,pressure
+608.021,neutral,counter_poke,mid,cornering,poke,pressure
+612.263,neutral,whiff_punish_attempt,mid,cornering,counter_poke,pressure
+614.363,neutral,poke,mid,cornering,whiff_punish_attempt,charging
+622.208,neutral,counter_poke,mid,cornering,poke,pressure
+7,neutral,retreat,mid,midscreen,none,roundstart
+9.28,neutral,poke,far,cornered,retreat,charging
+11.4,neutral,retreat,mid,midscreen,poke,backdash
+13.94,neutral,approach,mid,midscreen,retreat,drive rush
+16.2,neutral,retreat,mid,midscreen,approach,
+19.32,neutral,approach,mid,midscreen,retreat,drive rush
+23.12,neutral,counter_poke,close,midscreen,approach,perfect parry
+31.22,neutral,poke,close,cornering,counter_poke,pressure
+34.125,neutral,poke,close,cornering,poke,pressure
+36.83,neutral,poke,close,cornering,poke,pressure
+41.23,neutral,poke,close,cornering,poke,pressure
+7,neutral,retreat,mid,midscreen,none,roundstart
+10.2,neutral,poke,mid,midscreen,retreat,whiff
+13.33,neutral,retreat,mid,midscreen,poke,
+15.33,neutral,whiff_punish_attempt,mid,midscreen,retreat,success
+18.23,neutral,jump,mid,midscreen,whiff_punish_attempt,neutral jump
+20.34,neutral,approach,mid,midscreen,jump,drive rush
+21.37,neutral,whiff_punish_attempt,mid,midscreen,approach,fail
+23.55,neutral,poke,mid,midscreen,whiff_punish_attempt,
+31.33,neutral,jump,mid,cornered,poke,
+39.221,neutral,counter_poke,mid,midscreen,jump,
+40.33,neutral,retreat,mid,midscreen,counter_poke,backdash
+41.678,neutral,poke,mid,midscreen,retreat,charging
+44.23,neutral,poke,mid,midscreen,poke,fireball
+0.32,neutral,poke,mid,midscreen,none,roundstart
+1.23,neutral,approach,mid,midscreen,poke,drive rush
+6.22,neutral,counter_poke,mid,midscreen,approach,
+14.23,neutral,retreat,close,cornering,counter_poke,
+18.54,neutral,poke,mid,cornering,retreat,pressure
+23.33,neutral,counter_poke,mid,midscreen,poke,
+31.67,neutral,approach,mid,cornering,counter_poke,walk forward
+38.54,neutral,poke,mid,midscreen,approach,
+41.34,neutral,poke,close,midscreen,poke,
+42.11,neutral,poke,mid,midscreen,poke,hit
+0.32,neutral,poke,mid,midscreen,none,roundstart
+3.23,neutral,approach,mid,midscreen,poke,
+17.52,neutral,counter_poke,close,cornered,approach,hit
+22.73,neutral,jump,far,midscreen,counter_poke,over fireball
+29.24,neutral,poke,close,midscreen,jump,pressure
+0.32,neutral,approach,mid,midscreen,none,roundstart
+0.88,neutral,poke,mid,midscreen,approach,
+4.33,neutral,counter_poke,close,midscreen,poke,
+7.45,neutral,counter_poke,mid,midscreen,counter_poke,charging
+29.33,neutral,jump,far,cornering,counter_poke,over fireball
+31.89,neutral,poke,mid,cornering,jump,pressure
+34.22,neutral,retreat,mid,cornering,poke,
+34.63,neutral,approach,mid,cornering,retreat,drive rush
+37.22,neutral,poke,mid,cornering,approach,post tech
+39.78,neutral,counter_poke,close,cornering,poke,hit
+0.32,neutral,approach,mid,midscreen,none,roundstart
+0.87,neutral,poke,mid,midscreen,approach,fail
+5.76,neutral,counter_poke,close,midscreen,poke,
+9.34,neutral,poke,mid,midscreen,counter_poke,whiff
+10.22,neutral,whiff_punish_attempt,mid,midscreen,poke,fail
+21.31,neutral,whiff_punish_attempt,close,cornering,whiff_punish_attempt,success
+0.32,neutral,poke,mid,midscreen,none,roundstart
+2.33,neutral,poke,mid,midscreen,poke,whiff
+4.23,neutral,retreat,mid,midscreen,poke,backwalk
+7.11,neutral,poke,far,midscreen,retreat,
+9.45,neutral,retreat,mid,midscreen,poke,backwalk
+11.98,neutral,poke,close,midscreen,retreat,
+14.89,neutral,retreat,mid,midscreen,poke,backdash
+21.39,neutral,counter_poke,close,cornered,retreat,
+36.82,neutral,approach,mid,cornered,counter_poke,dash
+39.94,neutral,whiff_punish_attempt,close,cornered,approach,success
+,neutral,,,,,
+,neutral,,,,,
+,neutral,,,,,
+,neutral,,,,,
+,neutral,,,,,
+,neutral,,,,,
+,neutral,,,,,
+,neutral,,,,,
+,neutral,,,,,
+,neutral,,,,,
+,neutral,,,,,
+,neutral,,,,,
+,neutral,,,,,
+,neutral,,,,,
+,neutral,,,,,
+,neutral,,,,,
+,neutral,,,,,
+,neutral,,,,,
+,neutral,,,,,
+,neutral,,,,,
+,neutral,,,,,
+,neutral,,,,,
+,neutral,,,,,
+,neutral,,,,,
+,neutral,,,,,
+,neutral,,,,,
+,neutral,,,,,
+,neutral,,,,,
+,neutral,,,,,
+,neutral,,,,,
+,neutral,,,,,
+,neutral,,,,,
+,neutral,,,,,
+,neutral,,,,,
+,neutral,,,,,
+,neutral,,,,,
+,neutral,,,,,
+,neutral,,,,,
+,neutral,,,,,
+,neutral,,,,,
+,neutral,,,,,
+,neutral,,,,,
+,neutral,,,,,
+,neutral,,,,,
+,neutral,,,,,
+,neutral,,,,,
+,neutral,,,,,
+,neutral,,,,,
+,neutral,,,,,
+,neutral,,,,,
+,neutral,,,,,
